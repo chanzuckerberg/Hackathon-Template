@@ -1,10 +1,11 @@
 # Hackathon-Template
 
 This is a template repo for external hackathon projects. Please build your project off of this template:
-  1. Click the ‘use this template’ button above, and choose an appropriate name for your project
+  1. Click the ‘use this template’ button above, and choose an appropriate name for your project.  The sugested naming scheme: `SoftwareImpactHackathon2023_PROJECT`.
   2. Turn on basic security features for your repository under Settings -> Security and Analysis. We recommend you enable at least Private vulnerability reporting, Dependabot security updates and Secret Scanning.
   3. [Grant privileges](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository) to other collaborators, if desired.
   4. Replace this section of the readme and the above heading with an appropriate title and readme for your project. Please DO NOT modify or delete any other part of the readme below this line.
+  5. Fork the list of the projects URL, put the link and description of your project and create a pull request.
 
 —------------
 ## Software Impact Hackathon
